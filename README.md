@@ -1,0 +1,2 @@
+
+Universities collect reports, CCTV footage, and access logs related to campus safety incidents but rarely analyze them in an integrated manner. An AI system that fuses these modalities to identify patterns, hotspots, and precursors would support prevention efforts. The project should focus on privacy-preserving modeling, interpretable pattern detection, and collaboration interfaces for safety officers and administrators.
