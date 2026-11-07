@@ -193,7 +193,6 @@ These metrics help assess classification performance and the ability to distingu
 - Add more robust incident logging and reporting.
 - Support integration with larger campus surveillance systems.
 
-
 ## Application Screenshots
 
 ### 1. Main Dashboard
@@ -206,7 +205,7 @@ The I-Mage dashboard provides access to video detection, live camera monitoring,
 
 ### 2. Live Detection
 
-Real-time camera monitoring with YOLO26n object detection, live inference metrics, and VideoMAE-based fight classification.
+Real-time camera monitoring with object detection, inference FPS, and latency metrics.
 
 ![I-Mage Live Detection](docs/images/live_detection.png)
 
