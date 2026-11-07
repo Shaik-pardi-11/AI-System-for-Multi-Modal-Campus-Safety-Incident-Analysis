@@ -1,0 +1,19 @@
+<CodeBlock language="text" editable>
+torch==2.15.0+xpu
+torchvision
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+pillow
+transformers
+accelerate
+jupyter
+ipykernel
+</CodeBlock>
+fastapi
+uvicorn[standard]
+requests

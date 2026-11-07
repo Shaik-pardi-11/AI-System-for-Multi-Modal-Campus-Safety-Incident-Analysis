@@ -1,0 +1,96 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+secrets/
+
+# Datasets
+datasets/
+data/
+*.zip
+*.7z
+*.rar
+
+# Model weights
+*.pth
+*.pt
+*.onnx
+*.safetensors
+*.engine
+
+# OpenVINO exported model
+yolo26n_openvino_model/
+
+# Generated results
+outputs/
+incidents/evidence/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Datasets
+dataset/
+datasets/
+data/
+**/dataset/
+**/datasets/
+
+# Dataset videos
+*.avi
+*.mp4
+*.mov
+*.mkv
+*.webm
+
+# Trained model weights
+*.pth
+*.pt
+*.onnx
+*.safetensors
+*.engine
+
+# OpenVINO model
+yolo26n_openvino_model/
+
+# Generated data
+outputs/
+incidents/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Unused API integration folder
+api/
+
